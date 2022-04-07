@@ -12,7 +12,7 @@
 ---
 ### Applications
 
-SEIRS model
+SEIR model
 
 ![](figure/SEIR(mat).png) 
 
