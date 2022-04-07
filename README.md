@@ -4,7 +4,9 @@
 ## Contribution
 [1] Scatter-based simulation of infectious diseases.
 
-[2] SEIRS model, where recovered individuals are still infected.
+[2] SEIR model.
+
+[3] SEIRS model, where recovered individuals are still infected(May differ from the actual situation).
 
 
 ---
@@ -12,7 +14,7 @@
 
 SEIRS model
 
-![](figure/SEIR.tif) 
+![](figure/SEIR(mat).png) 
 
 ---
 ### **Warning**
